@@ -1,0 +1,14 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local dataset
+Dataset/
+*.csv
+
+# Virtual environments
+venv/
+.env/
